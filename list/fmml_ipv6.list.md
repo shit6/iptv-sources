@@ -145,4 +145,4 @@
 | 139 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 140 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Wed Sep 11 2024 22:21:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 12 2024 01:42:39 GMT+0000 (Coordinated Universal Time)**
