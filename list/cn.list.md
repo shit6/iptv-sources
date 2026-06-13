@@ -236,4 +236,4 @@
 | 230 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a6c1e9c7ed878b4710fd0cd7a8a16f51e48e3eee1c5764bce984c56c0808035b.ctv> |
 | 231 | [SD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/801369b8eee6983587b79881b7cd7c5de7c90b20544f9eb004128d7fd7ae72a2.m3u8> |
 
-Updated at **Sat Jun 13 2026 21:22:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 13 2026 23:13:50 GMT+0000 (Coordinated Universal Time)**
